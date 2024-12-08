@@ -1,0 +1,3 @@
+/workspaces/Taller2-tictactoe/build/CMakeFiles/rebuild_cache.dir
+/workspaces/Taller2-tictactoe/build/CMakeFiles/edit_cache.dir
+/workspaces/Taller2-tictactoe/build/CMakeFiles/Taller2-TicTacToe.dir
