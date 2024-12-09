@@ -87,4 +87,11 @@ Implementación del juego con poda alfa-beta, optimizando el cálculo del mejor 
 
 Diagramas
 
+![image](https://github.com/user-attachments/assets/e555d96b-250e-428f-b82e-2f100c2fb670)
+
+![image](https://github.com/user-attachments/assets/b77c957c-7525-423b-80b4-f2eabd6a1994)
+
+![image](https://github.com/user-attachments/assets/2b3cf643-3c0b-43db-b089-272873b994eb)
+
+
 
